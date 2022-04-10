@@ -1,0 +1,7 @@
+up = input("Text Besar ")
+u = up.upper()
+print("Text Besar % s" % u)
+print("\n")
+up = input("Text Kecil ")
+u = up.lower()
+print("Text Kecil % s" % u)
